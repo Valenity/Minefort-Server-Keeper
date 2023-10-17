@@ -19,4 +19,5 @@
 
 - Select Start and Enjoy!
 
-![image](https://github.com/Valenity/Minefort-Server-Keeper/assets/90345430/23b011ba-e421-4cbd-bb39-3204ee1f8cb5)
+![image](https://github.com/Valenity/Minefort-Server-Keeper/assets/90345430/ba7e9809-03dc-4ac7-ac5a-0de54ac0ad93)
+
